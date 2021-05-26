@@ -21,11 +21,11 @@ _footer: "by ひろなか"
 
 # スクレイピングでデータ取得<!-- fit -->
 
-![bg left:20% 80%](./public/browser.png)
+![bg left:20% 80%](./public/web-comic/browser.png)
 
 ---
 
-![bg 80%](./public/scrape.png)
+![bg 80%](./public/web-comic/scrape.png)
 
 ---
 
@@ -35,8 +35,8 @@ _footer: "by ひろなか"
 
 # データ保存と通知
 
-![bg left:30% 100%](./public/dataNotice.png)
+![bg left:30% 100%](./public/web-comic/dataNotice.png)
 
 ---
 
-![bg 90%](./public/discord.png)
+![bg 90%](./public/web-comic/discord.png)
