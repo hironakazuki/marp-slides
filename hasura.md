@@ -31,7 +31,9 @@ PostgreSQL サーバーから自動的に GraphQL サーバーを建てられる
 
 ---
 
-![bg 75%](./public/hasura/architecture.png)
+<!-- ![bg 75%](./public/hasura/architecture.png) -->
+
+![bg 75%](./public/hasura/hasura-pg.svg)
 
 ---
 
