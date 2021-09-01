@@ -6,7 +6,6 @@ backgroundColor: "#FBF4E9"
 ---
 
 <!--
-_header: "firebase functionsで"
 _footer: "by ひろなか"
 
 -->
